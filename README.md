@@ -1,6 +1,13 @@
-#Konuri's Github
+# Konuri's Github
 
-@github/chatbot_code_Base
+## 🖼️ GitHub Repo Overview
+
+![Repo Screenshot](https://github.com/your-username/your-repo-name/blob/main/image.png?raw=true)
+
+## 🔗 Repositories
+- [itskonuri](https://github.com/your-username/itskonuri)
+- [chatbot_code_Base](https://github.com/your-username/chatbot_code_Base)
+- [chatbot13](https://github.com/your-username/chatbot13)
 
 <!--
 **itskonuri/itskonuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
