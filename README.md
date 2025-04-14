@@ -1,9 +1,5 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
-<p align="center">
-  <img src="https://github.com/itskonuri/blob/main/image.png?raw=true" alt="GitHub Repo Overview" width="80%">
-</p>
-
 ---
 
 ## 🚀 Featured Repositories
