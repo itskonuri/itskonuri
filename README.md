@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://github.com/itskonuri/your-repo-name/blob/main/image.png?raw=true" alt="GitHub Repo Overview" width="80%">
+  <img src="https://github.com/itskonuri/blob/main/image.png?raw=true" alt="GitHub Repo Overview" width="80%">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - 💻 Python, AI, and Chatbot Enthusiast
 - 🌱 항상 배우고 성장하는 개발자
-- 📫 Contact: your.email@example.com
+- 📫 Contact: itskonuri@gmail.com
 
 ---
 
