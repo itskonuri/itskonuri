@@ -1,9 +1,5 @@
 # Konuri's Github
 
-## 🖼️ GitHub Repo Overview
-
-![Repo Screenshot](https://github.com/your-username/your-repo-name/blob/main/image.png?raw=true)
-
 ## 🔗 Repositories
 - [itskonuri](https://github.com/your-username/itskonuri)
 - [chatbot_code_Base](https://github.com/your-username/chatbot_code_Base)
